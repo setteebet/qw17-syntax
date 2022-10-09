@@ -1,0 +1,18 @@
+{
+  "name": "qw17-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บที่ไม่อั้นหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บที่ไม่อั้นหวย",
+"เว็บแทงหวยรัฐบาล",
+"หวย lottovip จ่ายจริงไหม",
+"วิธีสมัครเว็บหวย",
+"สมัครเว็บหวย lottovip"
+],
+  "repository": "https://github.com/setteebet/qw17-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
